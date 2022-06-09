@@ -8,6 +8,7 @@ dataSources:
     source:
       address: "0xdf97982bf70be91df4acd3d511c551f06a0d19ec"
       abi: MyTestContract
+      startBlock: 3527449
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.5
